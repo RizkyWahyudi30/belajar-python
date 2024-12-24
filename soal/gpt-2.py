@@ -57,7 +57,7 @@ else:
     print("input tidak valid, harus berupa angka")
 
 # soal 5
-print("===== 5. List, tuple dan dictionary ======")
+print("===== 5. 45List, tuple dan dictionary ======")
 
 data_list           = [1, 2, 3, 4, 5, 6, 7, 8, 9]
 data_tuple          = (11, 12, 13, 14, 15)
